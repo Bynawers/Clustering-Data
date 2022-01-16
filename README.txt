@@ -1,2 +1,1 @@
-Projet réalisé par :
-- FRATCZAK Théo
+Projet universitaire de clusters de données
