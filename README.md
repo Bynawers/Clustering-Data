@@ -1,4 +1,6 @@
 # Clustering-Data
+![Project](https://img.shields.io/badge/University-Project-2F77DF?labelColor=679EEE&style=for-the-badge)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=ffffff)
 
 Projet universitaire d'Algorithme et Science des données
 Le projet consiste à écrire un algorithme de PAM  qui permet la  recherche de k objets représentatifs dans un ensemble de données 
